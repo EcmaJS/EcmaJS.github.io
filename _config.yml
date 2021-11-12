@@ -1,1 +1,8 @@
-theme: jekyll-theme-cayman
+#theme:
+title: Website
+description: ecmajs-website
+url: https://ecmajs.github.io
+author: EcmaJS
+google_analytics: UA-212804240-1
+plugins:  
+  - jekyll-seo-tag
